@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ Projeto
-Esse é um projeto web responsivo desenvolvido para facilitar algumas rotinas do setor de Recebimento - Projetos e Processos do Grupo Mil.
+Esse é um projeto web responsivo desenvolvido para estudo de algumas tecnologias básicas de desenvolvimnento web.
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
