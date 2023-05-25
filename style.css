@@ -39,7 +39,6 @@ body {
    display: grid; /* definir grid layout */
    grid-template-areas: "profile timeline";
    grid-template-columns: 1fr 1fr;
-   grid-auto-rows: 10vh;
 }
 
 nav {
