@@ -3,11 +3,9 @@
 </p>
 
 ## 🖥️ Projeto
-Esse é um projeto web responsivo desenvolvido para otimizar algumas rotinas do trabalho em questão.
+⚠ Em desenvolvimento
 
 ## 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
 - HTML
 - CSS
 - Git e Github
